@@ -3,8 +3,7 @@
     "allow": [
       "Bash(docker build *)",
       "Bash(docker version *)",
-      "Bash(docker context ls *)",
-      "Bash(docker context *)"
+      "*"
     ]
   }
 }
